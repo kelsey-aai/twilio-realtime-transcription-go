@@ -1,0 +1,3 @@
+.env
+/twilio-realtime-transcription-go
+.DS_Store
